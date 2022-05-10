@@ -1,1 +1,9 @@
 O Git Bash é um terminal estendido para otimizar o uso do Git.
+
+# Comandos para criar novo Repositório:
+  git init
+  git status
+  git add .	
+  git commit -m "Comentario"
+  git push
+  
